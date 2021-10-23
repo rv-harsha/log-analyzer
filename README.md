@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+View the [demo](https://htmlpreview.github.io/?https://github.com/rv-harsha/log-analyzer/blob/main/dist/index.html) here.
+
 ## Available Scripts
 
 In the project directory, you can run:
